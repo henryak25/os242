@@ -2,3 +2,6 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 Github related
+ZCZC W00 100 CLASSROOM/ZOOM meetings related
+ZCZC W00 100 CLASSROOM/ZOOM meetings related
+ZCZC W00 40 Operating Systems Concept by Silberschatz
