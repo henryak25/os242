@@ -1,6 +1,15 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W02 30 L01 Checking SCELE for updates
+ZCZC W02 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 20 L03 GitHub related
+ZCZC W02 60 L05 Quiz related including studying
+ZCZC W02 400 L09 Assignment in General
+ZCZC W02 10 L42 Creating mypubkey.txt
+ZCZC W02 20 L41 TXT/mylog.txt related
+ZCZC W02 20 L43 TXT/myrank.txt related, including peer review
+
 ZCZC W01 20 L01 Checking SCELE announcements, etc
 ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
@@ -12,6 +21,7 @@ ZCZC W01 30 L06 GSGS about basic linux commands, vi editor
 ZCZC W01 60 L32 Watched some introductions to regex, vi editor, etc.
 ZCZC W01 80 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 20 L41 TXT/mylog.txt related.
+
 ZCZC W00 10 L03 Github related
 ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
