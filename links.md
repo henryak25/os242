@@ -15,3 +15,7 @@ Crash course for the linux sed command.
 Crash Course for the linux awk command.
 * [What is the CIA Triad](https://www.techtarget.com/whatis/definition/Confidentiality-integrity-and-availability-CIA)---
 An overview of what is the CIA Triad.
+* [Linux Directory in 100 seconds](https://youtu.be/42iQKuQodW4?si=9QvWY3b-G5oyY_ob)---
+Lumayan untuk sekadar tahu.
+* [Linux Crash Course - Formatting & Mounting Storage Volumes](https://youtu.be/2Z6ouBYfZr8?si=BhqTq8RVt4axaB-L)---
+Bagus untuk belajar mounting storage
