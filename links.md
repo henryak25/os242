@@ -19,3 +19,7 @@ An overview of what is the CIA Triad.
 Lumayan untuk sekadar tahu.
 * [Linux Crash Course - Formatting & Mounting Storage Volumes](https://youtu.be/2Z6ouBYfZr8?si=BhqTq8RVt4axaB-L)---
 Bagus untuk belajar mounting storage
+* [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)---
+berisi penjelasan mengenai virtual memory pada sistem operasi.
+* [Demand Paging in OS](https://www.javatpoint.com/os-demand-paging)---
+berisi penjelasan mengenai demand paging pada virtual memory.
