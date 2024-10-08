@@ -23,3 +23,7 @@ Bagus untuk belajar mounting storage
 berisi penjelasan mengenai virtual memory pada sistem operasi.
 * [Demand Paging in OS](https://www.javatpoint.com/os-demand-paging)---
 berisi penjelasan mengenai demand paging pada virtual memory.
+* [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)---
+Memmbahas memory management secara umum.
+* [Variable Partitioning in OS](https://www.geeksforgeeks.org/variable-or-dynamic-partitioning-in-operating-system/)---
+Berisi penjelasan mengenai variable partitioning.
