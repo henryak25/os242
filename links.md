@@ -27,3 +27,5 @@ berisi penjelasan mengenai demand paging pada virtual memory.
 Memmbahas memory management secara umum.
 * [Variable Partitioning in OS](https://www.geeksforgeeks.org/variable-or-dynamic-partitioning-in-operating-system/)---
 Berisi penjelasan mengenai variable partitioning.
+* [fork in C](https://www.geeksforgeeks.org/fork-system-call/)---
+Berisi penjelasan mengenai cara kerja fork di dalam C
