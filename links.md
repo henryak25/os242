@@ -32,3 +32,4 @@ Berisi penjelasan mengenai cara kerja fork di dalam C
 * [Mutex vs Sempahore](https://www.geeksforgeeks.org/mutex-vs-semaphore/) --- 
 Menjelaskan perbedaan dari Mutex dan Semaphore, apa definisinya, kelebihan, dan juga kekurangannya.
 * [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) --- Menjelaskan semaphore dalam proses sinkronisasi, tipe dan cara kerjanya.
+* [How to build LFS 12.2 - Tutorial by Kernotex](https://www.youtube.com/watch?v=vMdPHpPiy4Q) --- very helpful, 10/10 reccomend watching this video!
